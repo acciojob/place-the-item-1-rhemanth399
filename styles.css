@@ -1,10 +1,7 @@
 
 /* Your CSS Code here. */
-.main{
+.holder{
     display:flex;
-
-}
-.one{
     justify-content: space-between;
     flex-wrap:wrap;
 }
